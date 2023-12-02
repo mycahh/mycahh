@@ -3,12 +3,11 @@
 ## 🧑‍💻 About me
 - 🌐 Web Developer
 - 🎓 Currently studying Computer Engineer at Rafael Belloso Chacin University
+- 💼 Previous Experience as Frontend Developer
 
-## 🧑🏻‍💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+## 🧑🏻‍💻 Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,postgres)](https://skillicons.dev)
 
-## 🧑🏻‍💻 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql)](https://skillicons.dev)
 
 
 
